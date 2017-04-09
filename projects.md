@@ -3,8 +3,6 @@ title: Projects
 subtitle: A list of the projects I've done over the years
 ---
 
-# Projects
-
 ## Pikit
 Pikit is a game for those who lack fine motor control or who have limited mobility. It uses a single switch as input. 
 Pikit can help players learn how to use a single switch to choose menu options. This is a game that my teammates and I 
