@@ -48,6 +48,10 @@ in step 3!), and choose the "Blank" template.
 Edit the _config.yml file to change things like the name of your website, 
 your personal details, images, pages, etc.
 
+Note: In an upcoming blog post I'll cover how to customize your Jekyll site to 
+make it your own personal website, including adding new pages and posts. I'll 
+also be writing a blog on using a custom domain, instead of <yourusername>.github.io.
+
 # Step 7: Preview your changes
 You can treat Cloud9 like your development environment. Any changes you make here 
 will only be seen by you, until you decide to push your changes to git. 
