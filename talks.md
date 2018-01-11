@@ -3,6 +3,9 @@ title: Talks
 subtitle: Talks I have given
 ---
 
+## CUSEC 2018
+Here are the [slides](/assets/CUSEC2018.pdf){:target="_blank"} from my talk at [CUSEC 2018](http://2018.cusec.net){:target="_blank"}.
+
 ## !!Con
 I gave a talk at [!!Con](http://bangbangcon.com/) in May 2017.
 
