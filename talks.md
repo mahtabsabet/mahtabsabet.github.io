@@ -4,7 +4,15 @@ subtitle: Talks I have given
 ---
 
 ## CUSEC 2018
-Here are the [slides](/assets/CUSEC2018.pdf){:target="_blank"} from my talk at [CUSEC 2018](http://2018.cusec.net){:target="_blank"}.
+I gave a talk at [CUSEC 2018](http:/2018.cusec.net){:target="_blank"} called 
+"Mistakes I made as a junior software engineer (so you don't have to!)"
+
+<script async class="speakerdeck-embed" data-id="2380babe99d548d089d57e371b60245c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+*Description: Learn from my mistakes! Most junior software engineers make the 
+same few mistakes their first year on the job, and I was certainly no exception. 
+Cringe along with me as I relive the embarrassing details of actual blunders I made, 
+what I learned from them, and how you can hopefully avoid them in your own career!*
+
 
 ## !!Con
 I gave a talk at [!!Con](http://bangbangcon.com/) in May 2017.
