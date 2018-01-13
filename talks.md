@@ -4,7 +4,7 @@ subtitle: Talks I have given
 ---
 
 ## CUSEC 2018
-I gave a talk at [CUSEC 2018](http:/2018.cusec.net){:target="_blank"} called 
+I gave a talk at [CUSEC 2018](http://2018.cusec.net){:target="_blank"} called 
 "Mistakes I made as a junior software engineer (so you don't have to!)"
 
 <script async class="speakerdeck-embed" data-id="2380babe99d548d089d57e371b60245c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
